@@ -6,6 +6,7 @@
 1. Fork this repository to your Github Enterprise account.
 2. Using the green "clone or download" button on the **forked repo**, copy the link to the repo and use it to clone this assignment to your machine.
 3. Work through the steps below, making sure to commit your work after each correct answer - make those commit messages descriptive!
+4. You will need to create an app.js file to write the code in. You can use a program like [repl.it](https://repl.it/) to check your code works as you expect it to.
 
 ### Part 1: Loops with Conditions
 

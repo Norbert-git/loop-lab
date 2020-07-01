@@ -15,11 +15,11 @@ For each iteration, if the current number is a multiple of 3, console.log the va
 2.  Write out an "infinite loop" below. Don't run the loop in your console unless you are prepared to force quit your browser!! Check with the instructor to see if it is, or live dangerously and crash your browser!
 
 3.  Use a while loop to print out the current mileage of your car (or just use 542,841 as a fake mileage) in 1000 mile increments.
-  - at 10,000 miles, print out the string "Your car is still new"
-  - at 100,000 miles, print out the string "Your car is definitely used"
-  - at 150,000 miles, print out "time for a tune up"
-  - at 300,000 miles, print out "time for a new car"
-  - at 400,000 miles, print out "new car required", **and exit the loop**
+    - at 10,000 miles, print out the string "Your car is still new"
+    - at 100,000 miles, print out the string "Your car is definitely used"
+    - at 150,000 miles, print out "time for a tune up"
+    - at 300,000 miles, print out "time for a new car"
+    - at 400,000 miles, print out "new car required", **and exit the loop**
 
 4.  Using any looping mechanism, print out a date stamp for every day between 01/01/2020 and 01/07/2020. Your output should look like this:
 

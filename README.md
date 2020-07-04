@@ -103,6 +103,10 @@ Hint: current iteration is stored in a variable
 ```javascript
 const presidents = ["Donald", "Barack", "George Jr", "Bill", "George", "Ronald", "Jimmy", "Gerald", "Richard", "Lyndon", "John", "Dwight", "Harry", "Franklin", "Herbert", "Calvin", "Warren", "Woodrow", "William", "Theodore"];
 ```
+for(let i =0; i< presidents.length; i++){
+    if (i % 2 !== 0)
+    console.log (presidents[i])
+}
 
 2.  Create a new array with the gluten-free options from this menu:
 
